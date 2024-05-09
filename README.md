@@ -10,6 +10,7 @@
 - 🔭 I’m currently studying [Software Engineering](https://ingenieriainformatica.uniovi.es/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iyanfdezz?tab=repositories](https://github.com/iyanfdezz?tab=repositories)
+- ⚗️​​ My most recent work: WIQ! [https://github.com/iyanfdezz/wiq_es1a](https://github.com/iyanfdezz/wiq_es1a)
 
 - 💬 Ask me about **Java, JavaScript**
 
