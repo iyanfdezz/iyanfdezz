@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying [Software Engineering](https://ingenieriainformatica.uniovi.es/)
+- 🔭 I’m currently studying a MSc in Artificial Intelligence
 
-- 👨‍💻 All of my projects are available at [https://github.com/iyanfdezz?tab=repositories](https://github.com/iyanfdezz?tab=repositories)
-- ⚗️​​ My most recent work: WIQ! [https://github.com/iyanfdezz/wiq_es1a](https://github.com/iyanfdezz/wiq_es1a)
+- 👨‍💻 All of my projects are available in [my portfolio](https://iyanfdezz.github.io)
+- ⚗️​​ My most recent work: replayd [See it here](https://replayd-5t3.pages.dev/)
 
 - 💬 Ask me about **Java, JavaScript**
 
