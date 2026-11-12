@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying a MSc in Artificial Intelligence
+- 🔭 I’m currently pursuing an MSc in Artificial Intelligence
 
-- 👨‍💻 All of my projects are available in [my portfolio](https://iyanfdezz.github.io)
-- ⚗️​​ My most recent work: replayd [See it here](https://replayd-5t3.pages.dev/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://iyanfdezz.github.io)
+- ⚗️​​ My most recent work: replayd - [See it here](https://replayd-5t3.pages.dev/)
 
 - 💬 Ask me about **Java, JavaScript**
 
